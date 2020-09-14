@@ -68,3 +68,4 @@ __Front-End Developer courses__
 
 ### Languages
 - English - pre-intermediate (B1)
+- Russian/Belorussian - native
