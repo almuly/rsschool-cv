@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    font-weight: 400;
+    font-family: 'Open Sans';
+    box-sizing: border-box;
+}
+
+
+body {
+
+
+}
+
+header {
+display: flex;
+    justify-content: center;
+    color: aliceblue;
+    padding-top: 20px;
+    background-color: rgba(13, 48, 52, 0.77)
+}
+
+.name__wrapper {
+
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border: 2px solid rgba(11, 126, 203, 0.77);
+    border-radius: 50%;
+
+}
+
+.avatar__wrapper {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5px;
+}
